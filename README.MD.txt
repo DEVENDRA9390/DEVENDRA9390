@@ -1,53 +1,46 @@
-#Hospital Management SQL Project
+# Amazon Sales Dashboard - Power BI
 
+## Project Overview
+This project analyzes Amazon sales data using Power BI and provides insights into sales performance, product categories, and customer reviews through interactive visualizations.
 
-##Project Overview
-   This project analyzes hospital operations data using SQL.
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Excel/CSV
 
-##Tools Used
-   -MySQL
-   -SQL
-   -MySQL Workbench
-   -GitHub
+## Dashboard Features
+- YTD Sales Analysis
+- QTD Sales Analysis
+- Product Sales Tracking
+- Customer Reviews Analysis
+- Monthly Sales Trend
+- Weekly Sales Trend
+- Top 5 Products by Sales
+- Top 5 Products by Reviews
+- Product Category Performance
+- Interactive Filters and Slicers
 
-##SQL Concepts Used
-   -SELECT Statements
-   -WHERE Clause
-   -GROUP BY
-   -ORDER BY
-   -HAVING
-   -CASE WHEN
-   -Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
-   -INNER JOIN
-   -LEFT JOIN
-   -Common Table Expressions (CTEs)
-   -Views
-   -Window Functions
-   -RANK()
-   -DENSE_RANK()
-   -ROW_NUMBER()
-   -Subqueries
+## KPIs
+- YTD Sales: $2.18M
+- QTD Sales: $811.09K
+- Products Sold: 27.75K
+- Reviews: 19.42M
 
-##Dataset:-
+## Key Insights
+- Men Shoes generated the highest sales revenue.
+- Sales increased significantly during the last quarter.
+- A few products contributed a major share of total sales.
+- Customer reviews indicate strong engagement with top-selling products.
 
-   The project uses five datasets:
+## Dashboard Screenshot
+(Add Dashboard.png here)
 
-#Patients
+## Files Included
+- Amazon_Sales_Dashboard.pbix
+- Dashboard.png
+- Dataset.xlsx
+- README.md
 
-   Contains patient demographic and insurance information.
-
-#Doctors
-
-   Contains doctor details, specialization, experience, and hospital branch information.
-
-#Appointments
-
-   Contains appointment records between patients and doctors.
-
-#Treatments
-
-   Contains treatment details, treatment type, and treatment costs.
-
-#Billing
-
-   Contains billing records, payment methods, payment status, and revenue information.
+## Author
+Devendra Reddy
